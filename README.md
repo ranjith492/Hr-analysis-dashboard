@@ -96,4 +96,4 @@ To provide an **interactive HR tool** that:
 
 **Ranjith K**  
 📧 Email: [ranjithkarthiga9999@gmail.com](mailto:ranjithkarthiga9999@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+
